@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\HW\T04\bin\Debug\net6.0\T04.exe
+C:\Users\Mert\source\repos\HW\T04\bin\Debug\net6.0\T04.deps.json
+C:\Users\Mert\source\repos\HW\T04\bin\Debug\net6.0\T04.runtimeconfig.json
+C:\Users\Mert\source\repos\HW\T04\bin\Debug\net6.0\T04.dll
+C:\Users\Mert\source\repos\HW\T04\bin\Debug\net6.0\T04.pdb
+C:\Users\Mert\source\repos\HW\T04\obj\Debug\net6.0\T04.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\HW\T04\obj\Debug\net6.0\T04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\HW\T04\obj\Debug\net6.0\T04.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\HW\T04\obj\Debug\net6.0\T04.AssemblyInfo.cs
+C:\Users\Mert\source\repos\HW\T04\obj\Debug\net6.0\T04.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\HW\T04\obj\Debug\net6.0\T04.dll
+C:\Users\Mert\source\repos\HW\T04\obj\Debug\net6.0\refint\T04.dll
+C:\Users\Mert\source\repos\HW\T04\obj\Debug\net6.0\T04.pdb
+C:\Users\Mert\source\repos\HW\T04\obj\Debug\net6.0\T04.genruntimeconfig.cache
+C:\Users\Mert\source\repos\HW\T04\obj\Debug\net6.0\ref\T04.dll

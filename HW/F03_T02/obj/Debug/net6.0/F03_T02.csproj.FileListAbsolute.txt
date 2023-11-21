@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\HW\F03_T02\bin\Debug\net6.0\F03_T02.exe
+C:\Users\Mert\source\repos\HW\F03_T02\bin\Debug\net6.0\F03_T02.deps.json
+C:\Users\Mert\source\repos\HW\F03_T02\bin\Debug\net6.0\F03_T02.runtimeconfig.json
+C:\Users\Mert\source\repos\HW\F03_T02\bin\Debug\net6.0\F03_T02.dll
+C:\Users\Mert\source\repos\HW\F03_T02\bin\Debug\net6.0\F03_T02.pdb
+C:\Users\Mert\source\repos\HW\F03_T02\obj\Debug\net6.0\F03_T02.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\HW\F03_T02\obj\Debug\net6.0\F03_T02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\HW\F03_T02\obj\Debug\net6.0\F03_T02.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\HW\F03_T02\obj\Debug\net6.0\F03_T02.AssemblyInfo.cs
+C:\Users\Mert\source\repos\HW\F03_T02\obj\Debug\net6.0\F03_T02.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\HW\F03_T02\obj\Debug\net6.0\F03_T02.dll
+C:\Users\Mert\source\repos\HW\F03_T02\obj\Debug\net6.0\refint\F03_T02.dll
+C:\Users\Mert\source\repos\HW\F03_T02\obj\Debug\net6.0\F03_T02.pdb
+C:\Users\Mert\source\repos\HW\F03_T02\obj\Debug\net6.0\F03_T02.genruntimeconfig.cache
+C:\Users\Mert\source\repos\HW\F03_T02\obj\Debug\net6.0\ref\F03_T02.dll

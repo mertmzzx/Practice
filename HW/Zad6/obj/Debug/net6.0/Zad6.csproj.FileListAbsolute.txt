@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\HW\Zad6\bin\Debug\net6.0\Zad6.exe
+C:\Users\Mert\source\repos\HW\Zad6\bin\Debug\net6.0\Zad6.deps.json
+C:\Users\Mert\source\repos\HW\Zad6\bin\Debug\net6.0\Zad6.runtimeconfig.json
+C:\Users\Mert\source\repos\HW\Zad6\bin\Debug\net6.0\Zad6.dll
+C:\Users\Mert\source\repos\HW\Zad6\bin\Debug\net6.0\Zad6.pdb
+C:\Users\Mert\source\repos\HW\Zad6\obj\Debug\net6.0\Zad6.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\HW\Zad6\obj\Debug\net6.0\Zad6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\HW\Zad6\obj\Debug\net6.0\Zad6.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\HW\Zad6\obj\Debug\net6.0\Zad6.AssemblyInfo.cs
+C:\Users\Mert\source\repos\HW\Zad6\obj\Debug\net6.0\Zad6.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\HW\Zad6\obj\Debug\net6.0\Zad6.dll
+C:\Users\Mert\source\repos\HW\Zad6\obj\Debug\net6.0\refint\Zad6.dll
+C:\Users\Mert\source\repos\HW\Zad6\obj\Debug\net6.0\Zad6.pdb
+C:\Users\Mert\source\repos\HW\Zad6\obj\Debug\net6.0\Zad6.genruntimeconfig.cache
+C:\Users\Mert\source\repos\HW\Zad6\obj\Debug\net6.0\ref\Zad6.dll

@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\HW\Zad7\bin\Debug\net6.0\Zad7.exe
+C:\Users\Mert\source\repos\HW\Zad7\bin\Debug\net6.0\Zad7.deps.json
+C:\Users\Mert\source\repos\HW\Zad7\bin\Debug\net6.0\Zad7.runtimeconfig.json
+C:\Users\Mert\source\repos\HW\Zad7\bin\Debug\net6.0\Zad7.dll
+C:\Users\Mert\source\repos\HW\Zad7\bin\Debug\net6.0\Zad7.pdb
+C:\Users\Mert\source\repos\HW\Zad7\obj\Debug\net6.0\Zad7.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\HW\Zad7\obj\Debug\net6.0\Zad7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\HW\Zad7\obj\Debug\net6.0\Zad7.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\HW\Zad7\obj\Debug\net6.0\Zad7.AssemblyInfo.cs
+C:\Users\Mert\source\repos\HW\Zad7\obj\Debug\net6.0\Zad7.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\HW\Zad7\obj\Debug\net6.0\Zad7.dll
+C:\Users\Mert\source\repos\HW\Zad7\obj\Debug\net6.0\refint\Zad7.dll
+C:\Users\Mert\source\repos\HW\Zad7\obj\Debug\net6.0\Zad7.pdb
+C:\Users\Mert\source\repos\HW\Zad7\obj\Debug\net6.0\Zad7.genruntimeconfig.cache
+C:\Users\Mert\source\repos\HW\Zad7\obj\Debug\net6.0\ref\Zad7.dll
