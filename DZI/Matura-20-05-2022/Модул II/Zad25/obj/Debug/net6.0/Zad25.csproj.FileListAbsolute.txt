@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\Matura-20-5-2022\Zad25\bin\Debug\net6.0\Zad25.exe
+C:\Users\Mert\source\repos\Matura-20-5-2022\Zad25\bin\Debug\net6.0\Zad25.deps.json
+C:\Users\Mert\source\repos\Matura-20-5-2022\Zad25\bin\Debug\net6.0\Zad25.runtimeconfig.json
+C:\Users\Mert\source\repos\Matura-20-5-2022\Zad25\bin\Debug\net6.0\Zad25.dll
+C:\Users\Mert\source\repos\Matura-20-5-2022\Zad25\bin\Debug\net6.0\Zad25.pdb
+C:\Users\Mert\source\repos\Matura-20-5-2022\Zad25\obj\Debug\net6.0\Zad25.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Matura-20-5-2022\Zad25\obj\Debug\net6.0\Zad25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Matura-20-5-2022\Zad25\obj\Debug\net6.0\Zad25.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Matura-20-5-2022\Zad25\obj\Debug\net6.0\Zad25.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Matura-20-5-2022\Zad25\obj\Debug\net6.0\Zad25.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Matura-20-5-2022\Zad25\obj\Debug\net6.0\Zad25.dll
+C:\Users\Mert\source\repos\Matura-20-5-2022\Zad25\obj\Debug\net6.0\refint\Zad25.dll
+C:\Users\Mert\source\repos\Matura-20-5-2022\Zad25\obj\Debug\net6.0\Zad25.pdb
+C:\Users\Mert\source\repos\Matura-20-5-2022\Zad25\obj\Debug\net6.0\Zad25.genruntimeconfig.cache
+C:\Users\Mert\source\repos\Matura-20-5-2022\Zad25\obj\Debug\net6.0\ref\Zad25.dll

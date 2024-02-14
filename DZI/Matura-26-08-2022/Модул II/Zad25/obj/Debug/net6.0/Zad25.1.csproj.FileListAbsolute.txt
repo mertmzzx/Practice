@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad25.1\bin\Debug\net6.0\Zad25.1.exe
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad25.1\bin\Debug\net6.0\Zad25.1.deps.json
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad25.1\bin\Debug\net6.0\Zad25.1.runtimeconfig.json
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad25.1\bin\Debug\net6.0\Zad25.1.dll
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad25.1\bin\Debug\net6.0\Zad25.1.pdb
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad25.1\obj\Debug\net6.0\Zad25.1.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad25.1\obj\Debug\net6.0\Zad25.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad25.1\obj\Debug\net6.0\Zad25.1.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad25.1\obj\Debug\net6.0\Zad25.1.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad25.1\obj\Debug\net6.0\Zad25.1.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad25.1\obj\Debug\net6.0\Zad25.1.dll
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad25.1\obj\Debug\net6.0\refint\Zad25.1.dll
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad25.1\obj\Debug\net6.0\Zad25.1.pdb
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad25.1\obj\Debug\net6.0\Zad25.1.genruntimeconfig.cache
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad25.1\obj\Debug\net6.0\ref\Zad25.1.dll

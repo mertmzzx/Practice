@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad26\bin\Debug\net6.0\Zad26.exe
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad26\bin\Debug\net6.0\Zad26.deps.json
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad26\bin\Debug\net6.0\Zad26.runtimeconfig.json
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad26\bin\Debug\net6.0\Zad26.dll
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad26\bin\Debug\net6.0\Zad26.pdb
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad26\obj\Debug\net6.0\Zad26.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad26\obj\Debug\net6.0\Zad26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad26\obj\Debug\net6.0\Zad26.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad26\obj\Debug\net6.0\Zad26.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad26\obj\Debug\net6.0\Zad26.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad26\obj\Debug\net6.0\Zad26.dll
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad26\obj\Debug\net6.0\refint\Zad26.dll
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad26\obj\Debug\net6.0\Zad26.pdb
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad26\obj\Debug\net6.0\Zad26.genruntimeconfig.cache
+C:\Users\Mert\source\repos\Matura-26-08-2022\Zad26\obj\Debug\net6.0\ref\Zad26.dll
