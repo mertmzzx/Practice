@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zad26", "Probna2\Zad26.csproj", "{EE364C07-AB31-4516-9678-F730D287812B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad28", "Zad28\Zad28.csproj", "{2D3D9A71-21AA-4D8F-8230-8C853779370F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE364C07-AB31-4516-9678-F730D287812B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE364C07-AB31-4516-9678-F730D287812B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE364C07-AB31-4516-9678-F730D287812B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE364C07-AB31-4516-9678-F730D287812B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D3D9A71-21AA-4D8F-8230-8C853779370F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D3D9A71-21AA-4D8F-8230-8C853779370F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D3D9A71-21AA-4D8F-8230-8C853779370F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D3D9A71-21AA-4D8F-8230-8C853779370F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BDF0FEB-48C7-4E9D-BF7A-7796ECBC191D}
+	EndGlobalSection
+EndGlobal
